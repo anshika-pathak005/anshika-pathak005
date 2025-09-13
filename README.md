@@ -4,81 +4,89 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 I am a **BCA student** who is curious and highly interested in programming, coding, and exploring technologies.  
-- 💡 I enjoy learning by doing — building **web apps, music apps, games for fun**, and experimenting with **APIs** and **GUI projects** to see how things really work.  
-- 🌱 Currently learning **backend development** along with my course syllabus, and constantly improving my coding skills.  
-- 🎨 I love building **creative and detailed projects**. I aim for perfection, which makes me keep refining my work until it feels complete.  
-- 🚀 My goal is to **learn and evolve with technology**, explore different areas, and gain a taste of everything that will help in my future.  
-- 🌍 I’m also improving my **English communication** and exploring hobbies like **music, cooking, and learning new languages**.  
+- 🎓 BCA student with curiosity and passion for programming, coding, and exploring technologies.  
+- 💡 I enjoy learning by building web apps, games, music apps, and experimenting with APIs and GUI projects.  
+- 🌱 Currently improving backend development skills alongside my coursework.  
+- 🎨 Love creating detailed and creative projects, refining them until complete.  
+- 🚀 Goal: continuously learn, explore technology, and grow my skills.  
+- 🌍 Also enhancing English communication and enjoying hobbies like music, cooking, and learning new languages.
 
-## 💻 Tools & Technologies I Use  
+## 💻 Tools & Technologies I Use 
 
 <p align="center">
   <!-- Programming & Development -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tailwindcss.svg" width="40" height="40" style="background:white; padding:5px; border-radius:8px;"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tailwindcss.svg" width="50" height="50" style="background:white; padding:5px; border-radius:8px;"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
+  
   <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" height="50"/>
+  
   <!-- Version Control -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>  
+  
   <!-- Tools & Platforms -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" height="50"/>
   
   <!-- Python Libraries -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" height="50"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50" height="50"/>
 </p>
 
 ### 🚀 Featured Projects
 
-- **📚 [Student Record Management System (SRMS)](https://github.com/yourusername/student-record-management-system)**  
-  A **Python GUI project** using Tkinter & CustomTkinter. Includes **CRUD operations, user authentication**, and a modern dashboard. Packaged as an **executable** for easy use.  
+- 📚 [Student Record Management System (SRMS)](https://github.com/anshika-pathak005/student-record-management-system)  
+  Python GUI using Tkinter & CustomTkinter. Features CRUD operations, user authentication, and a modern dashboard. Packaged as an executable.  
 
-- **📖 [Book Recommender](https://github.com/yourusername/book-recommender)**  
-  A **Flask web app** that recommends books using **Machine Learning**, cosine similarity, and fuzzy search for typo-tolerant results. Responsive **Bootstrap UI** and deployed on **Render**.  
+- 📖 [Book Recommender](https://github.com/anshika-pathak005/book-recommender)  
+  Flask web app recommending books using ML, cosine similarity, and typo-tolerant fuzzy search. Responsive Bootstrap UI, deployed on Render.  
 
-- **🎵 [Music Player](https://github.com/yourusername/music-player)**  
-  **YouTube-style music player** built with HTML, CSS, JavaScript. Features responsive layout, dynamic playlist, play/pause toggle, next/previous controls, and smooth UI animations.  
+- 🎵 [Music Player](https://github.com/anshika-pathak005/youtube-style-music-player)  
+  YouTube-style music player with HTML, CSS, JS. Includes dynamic playlist, play/pause, next/prev controls, and smooth UI animations.  
 
-- **🟩 [Wordle Clone](https://github.com/yourusername/wordle-clone)**  
-  Browser-based **Wordle game** using HTML, CSS, JavaScript. Interactive board, color-coded hints, win/loss detection, and keyboard input support.  
+- 🟩 [Wordle Clone](https://github.com/anshika-pathak005/wordle-clone)  
+  Browser Wordle game using HTML, CSS, JS. Features interactive board, color-coded hints, win/loss detection, and keyboard support.  
 
-- **❓ [Quiz Master](https://github.com/yourusername/quiz-website)**  
-  Responsive **quiz web app** fetching questions dynamically from Open Trivia DB. Supports **online/offline mode, difficulty levels, score tracking**, and interactive UI.
+- ❓ [Quiz Master](https://github.com/anshika-pathak005/quiz-master)  
+  Responsive quiz app fetching questions from Open Trivia DB. Supports online/offline mode, difficulty levels, score tracking, and interactive UI.
+
+ ### 🚀 GitHub Stats
 
 <!-- Top Row: Stats + Top Languages side by side -->
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshika-pathak005&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshika-pathak005&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anshika-pathak005&show_icons=true&theme=radical" width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshika-pathak005&layout=compact&theme=radical" width="30%" />
 </p>
 
 <!-- Next Row: Streak Stats centered -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshika-pathak005&theme=radical" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshika-pathak005&theme=radical" width="50%" />
 </p>
 
 ## 🔗 Connect with me  
 
-<p align="center">
+<p>
   <a href="mailto:anshikapathak005@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Email"/>
   </a>
+  <h2> | <h2/>
   <a href="https://github.com/anshika-pathak005" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
   </a>
+  <h2> | <h2/>
   <a href="https://www.linkedin.com/in/anshika-pathak005/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
