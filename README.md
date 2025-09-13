@@ -67,14 +67,14 @@
 
 <!-- Top Row: Stats + Top Languages side by side -->
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshika-pathak005&layout=compact&theme=radical" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshika-pathak005&layout=compact&theme=radical" width="30%" />
+  
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshika-pathak005&theme=radical" width="50%" />
 
 </p>
 
-
+<!--
 ## 🔗 Connect with me  
-
 <p>
   <a href="mailto:anshikapathak005@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Email"/>
@@ -86,4 +86,4 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
 </p>
-
+ -->
