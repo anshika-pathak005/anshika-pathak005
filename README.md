@@ -67,7 +67,7 @@
 
 <!-- Top Row: Stats + Top Languages side by side -->
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshika-pathak005&layout=compact&theme=radical" width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshika-pathak005&layout=compact&theme=radical" width="40%" />
   
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshika-pathak005&theme=radical" width="50%" />
 
