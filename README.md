@@ -9,7 +9,7 @@
 - 🌱 Currently improving backend development skills alongside my coursework.  
 - 🎨 Love creating detailed and creative projects, refining them until complete.  
 - 🚀 Goal: continuously learn, explore technology, and grow my skills.  
-- 🌍 Also enhancing English communication and enjoying hobbies like music, cooking, and learning new languages.
+- 🌍 Also enhancing English communication and enjoying hobbies like music, drawing, and learning new languages.
 
 ## 💻 Tools & Technologies I Use 
 
@@ -46,7 +46,7 @@
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50" height="50"/>
 </p>
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
 - 📚 [Student Record Management System (SRMS)](https://github.com/anshika-pathak005/student-record-management-system)  
   Python GUI using Tkinter & CustomTkinter. Features CRUD operations, user authentication, and a modern dashboard. Packaged as an executable.  
@@ -63,18 +63,15 @@
 - ❓ [Quiz Master](https://github.com/anshika-pathak005/quiz-master)  
   Responsive quiz app fetching questions from Open Trivia DB. Supports online/offline mode, difficulty levels, score tracking, and interactive UI.
 
- ### 🚀 GitHub Stats
+ ## 🚀 GitHub Stats
 
 <!-- Top Row: Stats + Top Languages side by side -->
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshika-pathak005&show_icons=true&theme=radical" width="30%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshika-pathak005&layout=compact&theme=radical" width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshika-pathak005&layout=compact&theme=radical" width="40%" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshika-pathak005&theme=radical" width="60%" />
+
 </p>
 
-<!-- Next Row: Streak Stats centered -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshika-pathak005&theme=radical" width="50%" />
-</p>
 
 ## 🔗 Connect with me  
 
@@ -82,11 +79,9 @@
   <a href="mailto:anshikapathak005@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Email"/>
   </a>
-  <h2> | <h2/>
   <a href="https://github.com/anshika-pathak005" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
   </a>
-  <h2> | <h2/>
   <a href="https://www.linkedin.com/in/anshika-pathak005/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
