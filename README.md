@@ -4,12 +4,12 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 BCA student with curiosity and passion for programming, coding, and exploring technologies.  
-- 💡 I enjoy learning by building web apps, games, music apps, and experimenting with APIs and GUI projects.  
-- 🌱 Currently improving backend development skills alongside my coursework.  
-- 🎨 Love creating detailed and creative projects, refining them until complete.  
-- 🚀 Goal: continuously learn, explore technology, and grow my skills.  
-- 🌍 Also enhancing English communication and enjoying hobbies like music, drawing, and learning new languages.
+- Computer Science student passionate about programming and real-world development  
+- Building full-stack applications using MERN stack, Java Spring Boot, and Python  
+- Hands-on experience with frontend, backend, APIs, and end-to-end workflows 
+- Learning by building projects, refining them, and exploring system architecture  
+- Continuously improving skills and growing as a developer 
+- Also enhancing English communication and enjoying hobbies like music, drawing, and learning new languages.
 
 ## 💻 Tools & Technologies I Use 
 
