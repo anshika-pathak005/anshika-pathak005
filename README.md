@@ -15,7 +15,7 @@ I enjoy turning ideas into complete, end-to-end applications — from intuitive 
 
 ---
 
-<h2 align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/wrench.svg?color=%23e6e6e6"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide/wrench.svg?color=%23333333"><img src="https://api.iconify.design/lucide/wrench.svg?color=%23333333" width="22" height="22" valign="middle"></picture>&nbsp; Tech Stack</h2>
+<h2 align="left"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/wrench.svg?color=%23e6e6e6"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide/wrench.svg?color=%23333333"><img src="https://api.iconify.design/lucide/wrench.svg?color=%23333333" width="22" height="22" valign="middle"></picture>&nbsp; Tech Stack</h2>
 
 <table>
 <tr>
@@ -85,7 +85,7 @@ I enjoy turning ideas into complete, end-to-end applications — from intuitive 
 
 ---
 
-<h2 align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/rocket.svg?color=%23e6e6e6"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide/rocket.svg?color=%23333333"><img src="https://api.iconify.design/lucide/rocket.svg?color=%23333333" width="22" height="22" valign="middle"></picture>&nbsp; Featured Projects</h2>
+<h2 align="left"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/rocket.svg?color=%23e6e6e6"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide/rocket.svg?color=%23333333"><img src="https://api.iconify.design/lucide/rocket.svg?color=%23333333" width="22" height="22" valign="middle"></picture>&nbsp; Featured Projects</h2>
 
 | Project | Description | Tech Used |
 |---|---|---|
@@ -97,7 +97,7 @@ I enjoy turning ideas into complete, end-to-end applications — from intuitive 
 
 ---
 
-<h2 align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/bar-chart-3.svg?color=%23e6e6e6"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide/bar-chart-3.svg?color=%23333333"><img src="https://api.iconify.design/lucide/bar-chart-3.svg?color=%23333333" width="22" height="22" valign="middle"></picture>&nbsp; GitHub Stats</h2>
+<h2 align="left"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/bar-chart-3.svg?color=%23e6e6e6"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide/bar-chart-3.svg?color=%23333333"><img src="https://api.iconify.design/lucide/bar-chart-3.svg?color=%23333333" width="22" height="22" valign="middle"></picture>&nbsp; GitHub Stats</h2>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=anshika-pathak005&show_icons=true&theme=radical" height="165"/>
@@ -110,7 +110,7 @@ I enjoy turning ideas into complete, end-to-end applications — from intuitive 
 
 ---
 
-<h2 align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/link-2.svg?color=%23e6e6e6"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide/link-2.svg?color=%23333333"><img src="https://api.iconify.design/lucide/link-2.svg?color=%23333333" width="22" height="22" valign="middle"></picture>&nbsp; Connect With Me</h2>
+<h2 align="left"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/link-2.svg?color=%23e6e6e6"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide/link-2.svg?color=%23333333"><img src="https://api.iconify.design/lucide/link-2.svg?color=%23333333" width="22" height="22" valign="middle"></picture>&nbsp; Connect With Me</h2>
 
 <p align="center">
 <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE">
