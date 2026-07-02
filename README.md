@@ -15,12 +15,6 @@ I enjoy turning ideas into complete, end-to-end applications — from intuitive 
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anshika-pathak005/anshika-pathak005/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anshika-pathak005/anshika-pathak005/output/github-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/anshika-pathak005/anshika-pathak005/output/github-snake.svg">
-</picture>
-
 <h2 align="left"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/wrench.svg?color=%23e6e6e6"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide/wrench.svg?color=%23333333"><img src="https://api.iconify.design/lucide/wrench.svg?color=%23333333" width="22" height="22" valign="middle"></picture>&nbsp; Tech Stack</h2>
 
 <table>
@@ -91,6 +85,12 @@ I enjoy turning ideas into complete, end-to-end applications — from intuitive 
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anshika-pathak005/anshika-pathak005/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anshika-pathak005/anshika-pathak005/output/github-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/anshika-pathak005/anshika-pathak005/output/github-snake.svg">
+</picture>
+
 <h2 align="left"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/rocket.svg?color=%23e6e6e6"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide/rocket.svg?color=%23333333"><img src="https://api.iconify.design/lucide/rocket.svg?color=%23333333" width="22" height="22" valign="middle"></picture>&nbsp; Featured Projects</h2>
 
 | Project | Description | Tech Used |
@@ -105,12 +105,11 @@ I enjoy turning ideas into complete, end-to-end applications — from intuitive 
 
 <h2 align="left"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/bar-chart-3.svg?color=%23e6e6e6"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide/bar-chart-3.svg?color=%23333333"><img src="https://api.iconify.design/lucide/bar-chart-3.svg?color=%23333333" width="22" height="22" valign="middle"></picture>&nbsp; GitHub Stats</h2>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=anshika-pathak005&show_icons=true&theme=radical" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshika-pathak005&layout=compact&theme=radical" height="165"/>
-</p>
-
-<p align="center">
+</p> -->
+<p align="left">
 <img src="https://streak-stats.demolab.com/?user=anshika-pathak005&theme=radical" />
 </p>
 
@@ -118,14 +117,20 @@ I enjoy turning ideas into complete, end-to-end applications — from intuitive 
 
 <h2 align="left"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/link-2.svg?color=%23e6e6e6"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide/link-2.svg?color=%23333333"><img src="https://api.iconify.design/lucide/link-2.svg?color=%23333333" width="22" height="22" valign="middle"></picture>&nbsp; Connect With Me</h2>
 
-<p align="center">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<p align="left">
+<a href="https://linkedin.com/in/anshikapathak7">
+<img src="https://api.iconify.design/simple-icons/linkedin.svg?color=%230077B5" width="32" height="32"/>
 </a>
-<a href="mailto:YOUR-EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+&nbsp;&nbsp;
+<a href="mailto:anshikapathak9026@gmail.com">
+<img src="https://api.iconify.design/simple-icons/gmail.svg?color=%23D14836" width="32" height="32"/>
 </a>
+&nbsp;&nbsp;
 <a href="https://github.com/anshika-pathak005">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/github.svg?color=%23ffffff">
+<source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons/github.svg?color=%23181717">
+<img src="https://api.iconify.design/simple-icons/github.svg?color=%23181717" width="32" height="32">
+</picture>
 </a>
 </p>
