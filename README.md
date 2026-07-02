@@ -1,6 +1,8 @@
-<h1 align="center">Building products, not just features</h1>
+<h1 align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/rocket.svg?color=%23e6e6e6"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide/rocket.svg?color=%23333333"><img src="https://api.iconify.design/lucide/rocket.svg?color=%23333333" width="26" height="26" valign="middle"></picture>&nbsp; Building products, not just features</h1>
 
-Hi, I'm Anshika Pathak — a Full Stack Developer who enjoys turning ideas into complete, end-to-end applications: from intuitive interfaces to scalable backend systems and databases. I like understanding how things work under the hood, and I learn best by building, breaking, and iterating.
+<h3 align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/code-2.svg?color=%23e6e6e6"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide/code-2.svg?color=%23333333"><img src="https://api.iconify.design/lucide/code-2.svg?color=%23333333" width="20" height="20" valign="middle"></picture>&nbsp; Hi, I'm Anshika Pathak — a Full Stack Developer</h3>
+
+I enjoy turning ideas into complete, end-to-end applications — from intuitive interfaces to scalable backend systems and databases. I like understanding how things work under the hood, and I learn best by building, breaking, and iterating.
 
 **Currently:**
 
