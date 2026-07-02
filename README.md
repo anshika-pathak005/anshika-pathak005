@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://api.iconify.design/lucide/rocket.svg?color=%23333333" width="26" height="26" valign="middle"/>&nbsp; Building products, not just features</h1>
+<h1 align="center">Building products, not just features 🚀</h1>
 
 <h3 align="center">Hi, I'm Anshika Pathak — a Full Stack Developer</h3>
 
@@ -7,10 +7,7 @@ I enjoy turning ideas into complete, end-to-end applications — from intuitive 
 </p>
 
 <p align="center">
-<img src="https://api.iconify.design/lucide/bot.svg?color=%23555555" width="16" height="16" valign="middle"/> Building AI-powered applications &nbsp;|&nbsp;
-<img src="https://api.iconify.design/lucide/server.svg?color=%23555555" width="16" height="16" valign="middle"/> Exploring scalable backend design &nbsp;|&nbsp;
-<img src="https://api.iconify.design/lucide/layout-panel-left.svg?color=%23555555" width="16" height="16" valign="middle"/> Improving frontend architecture &nbsp;|&nbsp;
-<img src="https://api.iconify.design/lucide/settings-2.svg?color=%23555555" width="16" height="16" valign="middle"/> Refining code quality
+🤖 Building AI-powered applications &nbsp;|&nbsp; 🏗️ Exploring scalable backend design &nbsp;|&nbsp; 🎨 Improving frontend architecture &nbsp;|&nbsp; 🧹 Refining code quality
 </p>
 
 <p align="center"><i>"The best way to learn is by building."</i></p>
@@ -98,11 +95,11 @@ I enjoy turning ideas into complete, end-to-end applications — from intuitive 
 
 | Project | Description | Tech Used |
 |---|---|---|
-| <img src="https://api.iconify.design/lucide/database.svg?color=%23555555" width="18" height="18"/> [Student Record Management System](https://github.com/anshika-pathak005/student-record-management-system) | Python GUI app with CRUD operations, user authentication, and a modern dashboard. Packaged as an executable. | `Python` `Tkinter` `CustomTkinter` |
-| <img src="https://api.iconify.design/lucide/book-open.svg?color=%23555555" width="18" height="18"/> [Book Recommender](https://github.com/anshika-pathak005/book-recommender) | Flask web app recommending books using ML, cosine similarity, and typo-tolerant fuzzy search. Deployed on Render. | `Flask` `Python` `ML` `Bootstrap` |
-| <img src="https://api.iconify.design/lucide/music.svg?color=%23555555" width="18" height="18"/> [Music Player](https://github.com/anshika-pathak005/youtube-style-music-player) | YouTube-style music player with dynamic playlist, play/pause & next/prev controls, and smooth UI animations. | `HTML` `CSS` `JavaScript` |
-| <img src="https://api.iconify.design/lucide/grid-3x3.svg?color=%23555555" width="18" height="18"/> [Wordle Clone](https://github.com/anshika-pathak005/wordle-clone) | Browser Wordle game with an interactive board, color-coded hints, win/loss detection, and keyboard support. | `HTML` `CSS` `JavaScript` |
-| <img src="https://api.iconify.design/lucide/help-circle.svg?color=%23555555" width="18" height="18"/> [Quiz Master](https://github.com/anshika-pathak005/quiz-master) | Responsive quiz app fetching questions from Open Trivia DB, with online/offline mode, difficulty levels, and score tracking. | `HTML` `CSS` `JavaScript` |
+| 📚 [Student Record Management System](https://github.com/anshika-pathak005/student-record-management-system) | Python GUI app with CRUD operations, user authentication, and a modern dashboard. Packaged as an executable. | `Python` `Tkinter` `CustomTkinter` |
+| 📖 [Book Recommender](https://github.com/anshika-pathak005/book-recommender) | Flask web app recommending books using ML, cosine similarity, and typo-tolerant fuzzy search. Deployed on Render. | `Flask` `Python` `ML` `Bootstrap` |
+| 🎵 [Music Player](https://github.com/anshika-pathak005/youtube-style-music-player) | YouTube-style music player with dynamic playlist, play/pause & next/prev controls, and smooth UI animations. | `HTML` `CSS` `JavaScript` |
+| 🟩 [Wordle Clone](https://github.com/anshika-pathak005/wordle-clone) | Browser Wordle game with an interactive board, color-coded hints, win/loss detection, and keyboard support. | `HTML` `CSS` `JavaScript` |
+| ❓ [Quiz Master](https://github.com/anshika-pathak005/quiz-master) | Responsive quiz app fetching questions from Open Trivia DB, with online/offline mode, difficulty levels, and score tracking. | `HTML` `CSS` `JavaScript` |
 
 ---
 
