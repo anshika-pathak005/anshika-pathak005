@@ -99,6 +99,12 @@ I enjoy turning ideas into complete, end-to-end applications — from intuitive 
 
 <h2 align="left"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/bar-chart-3.svg?color=%23e6e6e6"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide/bar-chart-3.svg?color=%23333333"><img src="https://api.iconify.design/lucide/bar-chart-3.svg?color=%23333333" width="22" height="22" valign="middle"></picture>&nbsp; GitHub Stats</h2>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anshika-pathak005/anshika-pathak005/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anshika-pathak005/anshika-pathak005/output/github-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/anshika-pathak005/anshika-pathak005/output/github-snake.svg">
+</picture>
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=anshika-pathak005&show_icons=true&theme=radical" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshika-pathak005&layout=compact&theme=radical" height="165"/>
