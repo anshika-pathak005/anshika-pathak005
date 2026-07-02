@@ -58,7 +58,11 @@ I enjoy turning ideas into complete, end-to-end applications — from intuitive 
 <td>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> -->
-  <img src="https://api.iconify.design/simple-icons/gmail.svg?color=%23D14836" width="40" height="40"/>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/github.svg?color=%23ffffff">
+<source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons/github.svg?color=%23181717">
+<img src="https://api.iconify.design/simple-icons/github.svg?color=%23181717" width="40" height="40">
+</picture>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40" height="40"/>
