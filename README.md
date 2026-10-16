@@ -134,22 +134,34 @@ I build end-to-end web applications, combining thoughtful frontend experiences w
 
 ---
 
-<h2 align="left"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/link-2.svg?color=%23e6e6e6"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide/link-2.svg?color=%23333333"><img src="https://api.iconify.design/lucide/link-2.svg?color=%23333333" width="22" height="22" valign="middle"></picture>&nbsp; Connect With Me</h2>
+
+<h2 align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/link-2.svg?color=%23e6e6e6">
+    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide/link-2.svg?color=%23333333">
+    <img src="https://api.iconify.design/lucide/link-2.svg?color=%23333333" width="22" height="22" valign="middle">
+  </picture>
+  &nbsp; Connect With Me
+</h2>
 
 <p align="left">
-<a href="https://linkedin.com/in/anshikapathak7">
-<img src="https://api.iconify.design/simple-icons/linkedin.svg?color=%230077B5" width="32" height="32"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:anshikapathak9026@gmail.com">
-<img src="https://api.iconify.design/simple-icons/gmail.svg?color=%23D14836" width="32" height="32"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/anshika-pathak005">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/github.svg?color=%23ffffff">
-<source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons/github.svg?color=%23181717">
-<img src="https://api.iconify.design/simple-icons/github.svg?color=%23181717" width="32" height="32">
-</picture>
-</a>
+  <a href="https://linkedin.com/in/anshikapathak7">
+    <img src="https://api.iconify.design/simple-icons/linkedin.svg?color=%23808080" width="28" height="28" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:anshikapathak9026@gmail.com">
+    <img src="https://api.iconify.design/lucide/mail.svg?color=%23808080" width="28" height="28" alt="Email">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://anshika-portfolio-4t6e.onrender.com">
+    <img src="https://api.iconify.design/lucide/globe.svg?color=%23808080" width="28" height="28" alt="Portfolio">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/anshika-pathak005">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/github.svg?color=%23e6e6e6">
+      <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons/github.svg?color=%23333333">
+      <img src="https://api.iconify.design/simple-icons/github.svg?color=%23333333" width="28" height="28" alt="GitHub">
+    </picture>
+  </a>
 </p>
