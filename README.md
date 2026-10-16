@@ -21,13 +21,13 @@ I build end-to-end web applications, combining thoughtful frontend experiences w
 <tr>
 <td><b>Frontend</b></td>
 <td>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36" style="filter: grayscale(1)"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36" style="filter: grayscale(1)"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" style="filter: grayscale(1)"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" style="filter: grayscale(1)"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" height="36" style="filter: grayscale(1)"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" style="filter: grayscale(1)"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" style="filter: grayscale(1)"/>
+  <img src="https://api.iconify.design/simple-icons/html5.svg?color=%23808080" width="36" height="36" alt="HTML5"/>
+  <img src="https://api.iconify.design/simple-icons/css3.svg?color=%23808080" width="36" height="36" alt="CSS3"/>
+  <img src="https://api.iconify.design/simple-icons/javascript.svg?color=%23808080" width="36" height="36" alt="JavaScript"/>
+  <img src="https://api.iconify.design/simple-icons/react.svg?color=%23808080" width="36" height="36" alt="React"/>
+  <img src="https://api.iconify.design/simple-icons/nextdotjs.svg?color=%23808080" width="36" height="36" alt="Next.js"/>
+  <img src="https://api.iconify.design/simple-icons/typescript.svg?color=%23808080" width="36" height="36" alt="TypeScript"/>
+  <img src="https://api.iconify.design/simple-icons/tailwindcss.svg?color=%23808080" width="36" height="36" alt="Tailwind CSS"/>
 </td>
 </tr>
 <tr>
