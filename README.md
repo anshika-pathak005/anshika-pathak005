@@ -33,11 +33,9 @@ I build end-to-end web applications, combining thoughtful frontend experiences w
 <tr>
 <td><b>Backend</b></td>
 <td>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" height="36" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="36" height="36" alt="Spring Boot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="36" height="36" alt="Spring Security"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="36" height="36" alt="JWT"/>
-  &nbsp;<code>REST APIs</code>
+  <img src="https://api.iconify.design/simple-icons/openjdk.svg?color=%23808080" width="36" height="36" alt="Java"/>
+  <img src="https://api.iconify.design/simple-icons/spring.svg?color=%23808080" width="36" height="36" alt="Spring Boot"/>
+  &nbsp;<code>Spring Security</code> <code>JWT</code> <code>REST APIs</code>
 </td>
 </tr>
 <tr>
