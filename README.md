@@ -116,15 +116,21 @@ I build end-to-end web applications, combining thoughtful frontend experiences w
 
 ---
 
-<h2 align="left"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/bar-chart-3.svg?color=%23e6e6e6"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide/bar-chart-3.svg?color=%23333333"><img src="https://api.iconify.design/lucide/bar-chart-3.svg?color=%23333333" width="22" height="22" valign="middle"></picture>&nbsp; GitHub Stats</h2>
 
-<!-- <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=anshika-pathak005&show_icons=true&theme=radical" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshika-pathak005&layout=compact&theme=radical" height="165"/>
-</p> -->
+<h2 align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/bar-chart-3.svg?color=%23e6e6e6">
+    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide/bar-chart-3.svg?color=%23333333">
+    <img src="https://api.iconify.design/lucide/bar-chart-3.svg?color=%23333333" width="22" height="22" valign="middle">
+  </picture>
+  &nbsp; GitHub Stats
+</h2>
+
 <p align="left">
-<img src="https://streak-stats.demolab.com/?user=anshika-pathak005&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anshika-pathak005&show_icons=true&hide_border=true&bg_color=00000000&title_color=808080&text_color=808080&icon_color=808080&ring_color=808080" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshika-pathak005&layout=compact&hide_border=true&bg_color=00000000&title_color=808080&text_color=808080" />
 </p>
+
 
 ---
 
