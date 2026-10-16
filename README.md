@@ -96,15 +96,25 @@ I build end-to-end web applications, combining thoughtful frontend experiences w
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/anshika-pathak005/anshika-pathak005/output/github-snake.svg">
 </picture>
 
-<h2 align="left"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/rocket.svg?color=%23e6e6e6"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide/rocket.svg?color=%23333333"><img src="https://api.iconify.design/lucide/rocket.svg?color=%23333333" width="22" height="22" valign="middle"></picture>&nbsp; Featured Projects</h2>
+
+<h2 align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/rocket.svg?color=%23e6e6e6">
+    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide/rocket.svg?color=%23333333">
+    <img src="https://api.iconify.design/lucide/rocket.svg?color=%23333333" width="22" height="22" valign="middle">
+  </picture>
+  &nbsp; Featured Projects
+</h2>
 
 | Project | Description | Tech Used |
 |---|---|---|
-| [Student Record Management System](https://github.com/anshika-pathak005/student-record-management-system) | Python GUI app with CRUD operations, user authentication, and a modern dashboard. Packaged as an executable. | `Python` `Tkinter` `CustomTkinter` |
-| [Book Recommender](https://github.com/anshika-pathak005/book-recommender) | Flask web app recommending books using ML, cosine similarity, and typo-tolerant fuzzy search. Deployed on Render. | `Flask` `Python` `ML` `Bootstrap` |
-| [Music Player](https://github.com/anshika-pathak005/youtube-style-music-player) | YouTube-style music player with dynamic playlist, play/pause & next/prev controls, and smooth UI animations. | `HTML` `CSS` `JavaScript` |
-| [Wordle Clone](https://github.com/anshika-pathak005/wordle-clone) | Browser Wordle game with an interactive board, color-coded hints, win/loss detection, and keyboard support. | `HTML` `CSS` `JavaScript` |
-| [Quiz Master](https://github.com/anshika-pathak005/quiz-master) | Responsive quiz app fetching questions from Open Trivia DB, with online/offline mode, difficulty levels, and score tracking. | `HTML` `CSS` `JavaScript` |
+| [CareerPilot — Frontend](https://github.com/anshika-pathak005/career-assitant-frontend) | AI-powered career guidance platform featuring resume analysis, personalized learning roadmaps, and progress tracking through an interactive dashboard. | `Next.js` `TypeScript` `Tailwind CSS` `TanStack Query` |
+| [CareerPilot — Backend](https://github.com/anshika-pathak005/ai-career-assistant-backend) | Spring Boot REST API supporting JWT authentication, resume processing, Groq AI integration, roadmap generation, usage limits, and protected resources. | `Java 21` `Spring Boot` `MySQL` `JWT` `Groq API` |
+| [Bites — Frontend](https://github.com/anshika-pathak005/bites-frontend) | Full-stack food discovery and ordering experience with dynamic menu filtering, cart management, checkout, order tracking, and responsive interfaces. | `Next.js` `React` `TypeScript` `Tailwind CSS` `TanStack Query` |
+| [Bites — Backend](https://github.com/anshika-pathak005/bites-backend) | Spring Boot REST API powering restaurant ordering, guest checkout, authentication, delivery-distance validation, order management, and Razorpay payments. | `Java` `Spring Boot` `MySQL` `JWT` `Razorpay` |
+| [TalkSync]([TALKSYNC_REPO_URL](https://github.com/anshika-pathak005/TalkSync)) | Real-time messaging application supporting one-to-one and group chats, friend management, typing indicators, notifications, and secure authentication. | `MongoDB` `Express.js` `React` `Node.js` `Socket.IO` `JWT` |
+| [ZipLink]([ZIPLINK_REPO_URL](https://github.com/anshika-pathak005/ziplink)) | Full-stack URL shortener with authenticated link management, Redis-backed caching, rate limiting, and resilient Redis connectivity with fallback handling. | `TanStack Start` `TypeScript` `Drizzle ORM` `PostgreSQL` `Redis` `Docker` `Render` |
+
 
 ---
 
