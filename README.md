@@ -17,73 +17,91 @@ I build end-to-end web applications, combining thoughtful frontend experiences w
 
 <h2 align="left"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/wrench.svg?color=%23e6e6e6"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide/wrench.svg?color=%23333333"><img src="https://api.iconify.design/lucide/wrench.svg?color=%23333333" width="22" height="22" valign="middle"></picture>&nbsp; Tech Stack</h2>
 
-<table>
+<table width="100%">
 <tr>
-<td><b>Frontend</b></td>
-<td>
-  <img src="https://api.iconify.design/simple-icons/html5.svg?color=%23808080" width="36" height="36" alt="HTML5"/>
-  <img src="https://api.iconify.design/simple-icons/css3.svg?color=%23808080" width="36" height="36" alt="CSS3"/>
-  <img src="https://api.iconify.design/simple-icons/javascript.svg?color=%23808080" width="36" height="36" alt="JavaScript"/>
-  <img src="https://api.iconify.design/simple-icons/react.svg?color=%23808080" width="36" height="36" alt="React"/>
-  <img src="https://api.iconify.design/simple-icons/nextdotjs.svg?color=%23808080" width="36" height="36" alt="Next.js"/>
-  <img src="https://api.iconify.design/simple-icons/typescript.svg?color=%23808080" width="36" height="36" alt="TypeScript"/>
-  <img src="https://api.iconify.design/simple-icons/tailwindcss.svg?color=%23808080" width="36" height="36" alt="Tailwind CSS"/>
+<td width="18%"><b>Frontend</b></td>
+<td width="82%">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React" title="React"/>
+  <img src="https://cdn.simpleicons.org/nextdotjs/888888" width="36" height="36" alt="Next.js" title="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind CSS" title="Tailwind CSS"/>
 </td>
 </tr>
+
+<tr>
+<td><b>Frontend Libraries</b></td>
+<td>
+  <img src="https://cdn.simpleicons.org/axios/5A29E4" width="36" height="36" alt="Axios" title="Axios"/>
+  <img src="https://cdn.simpleicons.org/reactquery/FF4154" width="36" height="36" alt="TanStack Query" title="TanStack Query"/>
+  <img src="https://cdn.simpleicons.org/reacthookform/EC5990" width="36" height="36" alt="React Hook Form" title="React Hook Form"/>
+  <img src="https://cdn.simpleicons.org/zod/3E67B1" width="36" height="36" alt="Zod" title="Zod"/>
+</td>
+</tr>
+
 <tr>
 <td><b>Backend</b></td>
 <td>
-  <img src="https://api.iconify.design/simple-icons/openjdk.svg?color=%23808080" width="36" height="36" alt="Java"/>
-  <img src="https://api.iconify.design/simple-icons/spring.svg?color=%23808080" width="36" height="36" alt="Spring Boot"/>
-  &nbsp;<code>Spring Security</code> <code>JWT</code> <code>REST APIs</code>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" height="36" alt="Java" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="36" height="36" alt="Spring Boot" title="Spring Boot"/>
+  <img src="https://cdn.simpleicons.org/springsecurity/6DB33F" width="36" height="36" alt="Spring Security" title="Spring Security"/>
+  <img src="https://cdn.simpleicons.org/jsonwebtokens/D63AFF" width="36" height="36" alt="JWT" title="JWT"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat" height="28" alt="REST APIs" title="REST APIs"/>
 </td>
 </tr>
+
 <tr>
-<td><b>Database</b></td>
+<td><b>Databases &amp; ORM</b></td>
 <td>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="40" height="40"/>
-&nbsp;<code>JPA</code>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="36" height="36" alt="Hibernate" title="Hibernate"/>
+  <img src="https://img.shields.io/badge/JPA-59666C?style=flat" height="28" alt="JPA" title="JPA"/>
+  <img src="https://cdn.simpleicons.org/neon/00E599" width="36" height="36" alt="Neon" title="Neon"/>
+  <img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="36" height="36" alt="Supabase" title="Supabase"/>
+  <img src="https://cdn.simpleicons.org/tidb/FF3E00" width="36" height="36" alt="TiDB Cloud" title="TiDB Cloud"/>
+  <img src="https://img.shields.io/badge/Aiven-FF3554?style=for-the-badge&logo=aiven&logoColor=white" height="32" alt="Aiven" title="Aiven"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="36" height="36" alt="Redis" title="Redis"/>
+  <img src="https://cdn.simpleicons.org/upstash/00E9A3" width="36" height="36" alt="Upstash" title="Upstash"/>
 </td>
 </tr>
+
 <tr>
-<td><b>Data Fetching & Validation</b></td>
+<td><b>Tools &amp; Platforms</b></td>
 <td>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg" width="40" height="40"/>
-&nbsp;<code>TanStack Query</code> <code>React Hook Form</code> <code>Zod</code>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git" title="Git"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/github.svg?color=%23ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons/github.svg?color=%23181717">
+    <img src="https://api.iconify.design/simple-icons/github.svg?color=%23181717" width="36" height="36" alt="GitHub" title="GitHub"/>
+  </picture>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="36" height="36" alt="GitLab" title="GitLab"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="36" height="36" alt="Postman" title="Postman"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="36" height="36" alt="Maven" title="Maven"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="36" height="36" alt="npm" title="npm"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" height="36" alt="VS Code" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="36" height="36" alt="IntelliJ IDEA" title="IntelliJ IDEA"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="36" height="36" alt="MySQL Workbench" title="MySQL Workbench"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" title="Docker"/>
 </td>
 </tr>
-<tr>
-<td><b>Tools & Platforms</b></td>
-<td>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> -->
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/github.svg?color=%23ffffff">
-<source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons/github.svg?color=%23181717">
-<img src="https://api.iconify.design/simple-icons/github.svg?color=%23181717" width="40" height="40">
-</picture>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/>
-&nbsp;<code>MySQL Workbench</code>
-</td>
-</tr>
+
 <tr>
 <td><b>Deployment</b></td>
 <td>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="40" height="40"/>
-&nbsp;<code>Render</code> <code>Neon</code>
+  <img src="https://cdn.simpleicons.org/vercel/888888" width="36" height="36" alt="Vercel" title="Vercel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="36" height="36" alt="Netlify" title="Netlify"/>
+  <img src="https://cdn.simpleicons.org/render/46E3B7" width="36" height="36" alt="Render" title="Render"/>
 </td>
 </tr>
+
 <tr>
-<td><b>AI & Integrations</b></td>
+<td><b>Integrations &amp; AI</b></td>
 <td>
-<code>Groq</code> <code>DeepSeek</code> <code>Gemini</code>
+  <img src="https://cdn.simpleicons.org/razorpay/0C2451" width="36" height="36" alt="Razorpay" title="Razorpay"/>
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white" height="32" alt="Groq" title="Groq"/>
 </td>
 </tr>
 </table>
@@ -153,7 +171,7 @@ I build end-to-end web applications, combining thoughtful frontend experiences w
     <img src="https://api.iconify.design/lucide/mail.svg?color=%23808080" width="28" height="28" alt="Email">
   </a>
   &nbsp;&nbsp;
-  <a href="https://anshika-portfolio-4t6e.onrender.com">
+  <a href="https://">
     <img src="https://api.iconify.design/lucide/globe.svg?color=%23808080" width="28" height="28" alt="Portfolio">
   </a>
   &nbsp;&nbsp;
