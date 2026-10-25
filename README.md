@@ -205,9 +205,7 @@ I build end-to-end web applications, combining thoughtful frontend experiences w
 </tr>
 </table>
 
-
 ---
-
 
 <h2 align="left">
   <picture>
@@ -219,23 +217,19 @@ I build end-to-end web applications, combining thoughtful frontend experiences w
 </h2>
 
 <p align="left">
-  <a href="https://linkedin.com/in/anshikapathak7">
-    <img src="https://api.iconify.design/simple-icons/linkedin.svg?color=%23808080" width="28" height="28" alt="LinkedIn">
+  <a href="https://linkedin.com/in/anshikapathak7" title="LinkedIn">
+    <img src="https://api.iconify.design/simple-icons/linkedin.svg?color=%23808080" width="20" height="20" alt="LinkedIn" valign="middle">&nbsp;LinkedIn
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:anshikapathak9026@gmail.com">
-    <img src="https://api.iconify.design/lucide/mail.svg?color=%23808080" width="28" height="28" alt="Email">
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="mailto:anshikapathak9026@gmail.com" title="Email">
+    <img src="https://api.iconify.design/lucide/mail.svg?color=%23808080" width="20" height="20" alt="Email" valign="middle">&nbsp;Email
   </a>
-  &nbsp;&nbsp;
-  <a href="https://">
-    <img src="https://api.iconify.design/lucide/globe.svg?color=%23808080" width="28" height="28" alt="Portfolio">
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://anshika-pathak.vercel.app/" title="Portfolio">
+    <img src="https://api.iconify.design/lucide/globe.svg?color=%23808080" width="20" height="20" alt="Portfolio" valign="middle">&nbsp;Portfolio
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/anshika-pathak005">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/github.svg?color=%23e6e6e6">
-      <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons/github.svg?color=%23333333">
-      <img src="https://api.iconify.design/simple-icons/github.svg?color=%23333333" width="28" height="28" alt="GitHub">
-    </picture>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://github.com/anshika-pathak005" title="GitHub">
+    <img src="https://api.iconify.design/simple-icons/github.svg?color=%23808080" width="20" height="20" alt="GitHub" valign="middle">&nbsp;GitHub
   </a>
 </p>
