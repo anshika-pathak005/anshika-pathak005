@@ -186,10 +186,24 @@ I build end-to-end web applications, combining thoughtful frontend experiences w
   &nbsp; GitHub Stats
 </h2>
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anshika-pathak005&show_icons=true&hide_border=true&bg_color=00000000&title_color=808080&text_color=808080&icon_color=808080&ring_color=808080" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshika-pathak005&layout=compact&hide_border=true&bg_color=00000000&title_color=808080&text_color=808080" />
-</p>
+<table width="100%">
+<tr>
+  <td width="50%" align="center">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=anshika-pathak005&show_icons=true&hide_border=true&bg_color=00000000&title_color=808080&text_color=808080&icon_color=808080&ring_color=808080&include_all_commits=true&card_width=495" alt="GitHub Stats"/>
+  </td>
+  <td width="50%" align="center">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshika-pathak005&layout=compact&hide_border=true&bg_color=00000000&title_color=808080&text_color=808080&langs_count=8&card_width=495" alt="Top Languages"/>
+  </td>
+</tr>
+<tr>
+  <td width="50%" align="center">
+    <img width="100%" src="https://streak-stats.demolab.com/?user=anshika-pathak005&hide_border=true&background=00000000&stroke=80808040&ring=808080&fire=808080&currStreakNum=808080&sideNums=808080&currStreakLabel=808080&sideLabels=808080&dates=808080" alt="Streak Stats"/>
+  </td>
+  <td width="50%" align="center">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=anshika-pathak005&repo=bites-frontend&hide_border=true&bg_color=00000000&title_color=808080&text_color=808080&icon_color=808080" alt="Bites"/>
+  </td>
+</tr>
+</table>
 
 
 ---
