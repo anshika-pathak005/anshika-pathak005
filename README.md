@@ -124,12 +124,54 @@ I build end-to-end web applications, combining thoughtful frontend experiences w
   &nbsp; Featured Projects
 </h2>
 
-| Project | Description | Tech Used |
-|---|---|---|
-| [Bites](https://github.com/anshika-pathak005/bites-frontend) | Full-stack food discovery and ordering application featuring dynamic menu filtering, cart management, checkout, order placement, and delivery fee calculation. Combines a responsive frontend with REST APIs, database persistence, and integrated Razorpay payments. | `Next.js` `React` `TypeScript` `Tailwind CSS` `Java` `Spring Boot` `MySQL` `Razorpay` |
-| [CareerPilot](https://github.com/anshika-pathak005/career-assitant-frontend) | AI-powered career development platform offering resume analysis, personalized learning roadmaps, and progress tracking. Integrates a modern frontend with Spring Boot REST APIs, JWT-based authentication, Groq AI, and persistent data storage. | `Next.js` `TypeScript` `Tailwind CSS` `TanStack Query` `Java 21` `Spring Boot` `MySQL` `JWT` `Groq API` |
-| [TalkSync](https://github.com/anshika-pathak005/TalkSync) | Real-time messaging application built around instant communication, featuring one-to-one and group chats, friend management, typing indicators, and notifications. Uses event-driven communication to deliver responsive chat experiences with authenticated access. | `React` `Node.js` `Express.js` `MongoDB` `Socket.IO` `JWT` |
-| [ZipLink](https://github.com/anshika-pathak005/ziplink) | Full-stack URL shortener with link creation and management, authenticated user workflows, Redis-backed caching, and rate limiting. Built with a type-safe full-stack architecture, PostgreSQL persistence, and resilient Redis connectivity with fallback handling. | `TanStack Start` `TypeScript` `Drizzle ORM` `PostgreSQL` `Redis` `Upstash` `Docker` `Render` |
+<table width="100%">
+<tr>
+  <th width="15%" align="left">Project</th>
+  <th width="30%" align="left">Description</th>
+  <th width="30%" align="left">Tech Used</th>
+  <th width="25%" align="left">Links</th>
+</tr>
+
+<tr>
+<td><b>Bites</b></td>
+<td>Full-stack food ordering app with menu filtering, cart, checkout and Razorpay payments.</td>
+<td><code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>Java</code> <code>Spring Boot</code> <code>MySQL</code> <code>Razorpay</code></td>
+<td>
+  <a href="https://github.com/anshika-pathak005/bites-frontend"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
+  <a href="https://bites-culinary.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-2EA44F?style=for-the-badge" alt="Live Demo"/></a>
+</td>
+</tr>
+
+<tr>
+<td><b>CareerPilot</b></td>
+<td>AI career platform with resume analysis, personalized learning roadmaps and progress tracking.</td>
+<td><code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>TanStack Query</code> <code>Java 21</code> <code>Spring Boot</code> <code>MySQL</code> <code>JWT</code> <code>Groq API</code></td>
+<td>
+  <a href="https://github.com/anshika-pathak005/career-assitant-frontend"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
+  <a href="https://my-career-pilot.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-2EA44F?style=for-the-badge" alt="Live Demo"/></a>
+</td>
+</tr>
+
+<tr>
+<td><b>TalkSync</b></td>
+<td>Real-time chat app with one-to-one and group chats, friend management and typing indicators.</td>
+<td><code>React</code> <code>Node.js</code> <code>Express.js</code> <code>MongoDB</code> <code>Socket.IO</code> <code>JWT</code></td>
+<td>
+  <a href="https://github.com/anshika-pathak005/TalkSync"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
+  <a href="https://talksync-21ho.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-2EA44F?style=for-the-badge" alt="Live Demo"/></a>
+</td>
+</tr>
+
+<tr>
+<td><b>ZipLink</b></td>
+<td>URL shortener with user auth, Redis caching and rate limiting.</td>
+<td><code>TanStack Start</code> <code>TypeScript</code> <code>Drizzle ORM</code> <code>PostgreSQL</code> <code>Redis</code> <code>Upstash</code> <code>Docker</code> <code>Render</code></td>
+<td>
+  <a href="https://github.com/anshika-pathak005/ziplink"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
+  <a href="https://ziplink-hah1.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-2EA44F?style=for-the-badge" alt="Live Demo"/></a>
+</td>
+</tr>
+</table>
 
 
 ---
